@@ -1,0 +1,34 @@
+{
+  "cityList": [
+    {
+      "cityName": "Legazpi",
+      "temp": "32",
+      "weather": "Sunny",
+      "id": 1
+    },
+    {
+      "cityName": "Taguig",
+      "temp": "24",
+      "weather": "Rainy",
+      "id": 2
+    },
+    {
+      "cityName": "Makati",
+      "temp": "28",
+      "weather": "Cloudy",
+      "id": 3
+    },
+    {
+      "cityName": "Pasig",
+      "temp": "22",
+      "weather": "Rainy",
+      "id": 4
+    },
+    {
+      "cityName": "Manila",
+      "temp": "31",
+      "weather": "Sunny",
+      "id": 5
+    }
+  ]
+}
